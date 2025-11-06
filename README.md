@@ -1,5 +1,7 @@
 # DecodeX Exploring and Benchmarking of LDPC Decoding across CPU, GPU, and ASIC Platforms
 
+[![arXiv](https://img.shields.io/badge/arXiv-2511.02952-green?color=FF8000?color=009922)](https://arxiv.org/abs/2511.02952)
+
 This repository presents DecodeX, a unified benchmarking framework for evaluating low-density parity-check (LDPC) decoding acceleration across different hardware platforms. DecodeX integrates a comprehensive suite of LDPC decoder implementations, including kernels, APIs, and test vectors for CPUs (FlexRAN), GPUs (Aerial and Sionna-RK), and ASIC (ACC100), and can be readily extended to additional architectures and configurations.
 
 Current supported benchmarking frameworks consists of the following: 
