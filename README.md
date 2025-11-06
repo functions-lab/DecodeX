@@ -16,3 +16,17 @@ Current supported benchmarking frameworks consists of the following:
 |     GPU          |            [Aerial](GPU-Aerial/Aerial.md)            |        RTX 3090         |
 |     GPU          |            [Aerial](GPU-Aerial/Aerial.md)            |      RTX 6000 Ada       |
 
+## Citation
+
+If you find DecodeX useful for your research, please consider citing this paper:
+```
+@misc{qi2025decodexexploringbenchmarkingldpc,
+      title={DecodeX: Exploring and Benchmarking of LDPC Decoding across CPU, GPU, and ASIC Platforms}, 
+      author={Zhenzhou Qi and Yuncheng Yao and Yiming Li and Chung-Hsuan Tung and Junyao Zheng and Danyang Zhuo and Tingjun Chen},
+      year={2025},
+      eprint={2511.02952},
+      archivePrefix={arXiv},
+      primaryClass={cs.NI},
+      url={https://arxiv.org/abs/2511.02952}, 
+}
+```
