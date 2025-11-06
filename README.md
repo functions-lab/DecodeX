@@ -7,10 +7,10 @@ Current supported benchmarking frameworks consists of the following:
 |    Hardware      |        Implementation        |         Platform        |
 | ---------------- | -----------------------------|-------------------------|
 |     CPU          |            [FlexRAN](CPU-FlexRAN/CPU-FlexRAN-README.md)           |        Intel Xeon       |
-|     CPU          |            OAI               |        Intel Xeon       |
-|     ASIC         |            DPDK-BBDev        |        ACC100           |
-|     GPU          |            Sionna-rk         |     Jetson AGX Orin     |
-|     GPU          |            Aerial            |           H200          |
-|     GPU          |            Aerial            |        RTX 3090         |
-|     GPU          |            Aerial            |      RTX 6000 Ada       |
+|     CPU          |            [Aerial](CPU-Aerial/CPU-Aerial-README.md)              |        Intel Xeon       |
+|     ASIC         |            [DPDK-BBDev](ASIC-ACC100/ACC100-README.md)       |        ACC100           |
+|     GPU          |            [Sionna-rk](GPU-Sionna-rk/Sionna-rk.md)        |     Jetson AGX Orin     |
+|     GPU          |            [Aerial](GPU-Aerial/Aerial.md)            |           H200          |
+|     GPU          |            [Aerial](GPU-Aerial/Aerial.md)            |        RTX 3090         |
+|     GPU          |            [Aerial](GPU-Aerial/Aerial.md)            |      RTX 6000 Ada       |
 
