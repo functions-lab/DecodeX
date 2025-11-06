@@ -32,3 +32,5 @@
         $ make -j
         </pre>
 
+## LDPC Unit test
+After installing the Intel and FlexRAN libraries, we provide two example unit test scripts in this folder for validating LDPC decoding performance using FlexRAN. These scripts allow you to sweep across different MCS and SNR values, and verify decoding correctness and latency. Users may configure various LDPC parameters—such as base graph type, maximum iteration count, and lifting size (Zc)—directly within the test scripts.
