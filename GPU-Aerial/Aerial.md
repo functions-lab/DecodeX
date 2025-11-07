@@ -74,8 +74,7 @@ To perform **parallel decoding of multiple TBs simultaneously**, please contact 
 
 - Ensure your NVIDIA Developer access is approved, otherwise documentation/software links may appear restricted.
 - Verify CUDA toolkit, GPU drivers, and pyAerial version compatibility.
-- If GPU acceleration does not activate, confirm your environment is running on a supported platform (e.g., NVIDIA Jetson Orin AGX for embedded setups).
+- If GPU acceleration does not activate, confirm your environment is running on a supported platform.
 - Adjust SNR sweep ranges when changing `mcs` or `code_rate` to ensure meaningful BLER curves.
-
 ---
 
