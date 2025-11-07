@@ -8,10 +8,10 @@ https://developer.nvidia.com/industries/telecommunications/ai-aerial
 
 #### Version Tested
 (Please fill these based on your setup)
-- AI Aerial Version Tested: <version>
-- CUDA Version: <version>
-- NVIDIA Driver Version: <version>
-- OS / Platform: <Ubuntu / Jetson / x86 server, etc.>
+- AI Aerial Version Tested: aerial-cuda-accelerated-ran:25-2-cubb
+- CUDA Version: 13.0
+- NVIDIA Driver Version: 580.65.06 
+- OS / Platform: Ubuntu 24.04.3 LTS
 
 ---
 
